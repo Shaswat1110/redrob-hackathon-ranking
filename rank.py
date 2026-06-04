@@ -51,10 +51,12 @@ def process_candidates(candidates_path, manifest):
             try:
                 candidate = json.loads(line)
             except json.JSONDecodeError:
+                print(f"Warning: Skipping malformed JSON line.", file=sys.stderr)
                 continue
                 
             cid = candidate.get('candidate_id')
             if not cid:
+                print(f"Warning: Skipping candidate with missing candidate_id.", file=sys.stderr)
                 continue
                 
             if cid in manifest:
