@@ -1,0 +1,6 @@
+team_name: "[Enter your team name]"
+participant_id: "[Enter your participant ID]"
+sandbox_link: "[Link to your HuggingFace Space, Streamlit Cloud, Colab, or Replit]"
+ai_tools_used:
+  - "Gemini for architecture ideation and boilerplate generation"
+  - "Qwen/Qwen2.5-0.5B-Instruct for offline reasoning generation"
