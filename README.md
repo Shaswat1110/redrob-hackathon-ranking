@@ -1,8 +1,16 @@
-# Redrob Hackathon: Intelligent Candidate Ranking System
+# 🚀 Redrob Hackathon: Intelligent Candidate Ranking System
 
-**👉 [Live Sandbox Demo (Google Colab)](https://colab.research.google.com/drive/15Nj25tDUI71cQSngzW6CjCTUD0x_Zk90?usp=sharing)**
+**👉 [LIVE SANDBOX DEMO (Google Colab)](https://colab.research.google.com/drive/15Nj25tDUI71cQSngzW6CjCTUD0x_Zk90?usp=sharing)**
 
-This repository contains the code for our **Decoupled Pre-computation Architecture**, designed to evaluate and rank 100,000 candidate profiles for the Redrob Intelligent Candidate Discovery & Ranking Challenge. 
+### ⚡ Executive Summary
+Welcome to our submission for the **Redrob Intelligent Candidate Discovery & Ranking Challenge**. We engineered a highly optimized **Decoupled Pre-computation Architecture** to solve the core challenges of this hackathon:
+
+* 🎯 **The Goal:** Evaluate 100,000 candidate profiles with maximum accuracy.
+* ⏱️ **The Constraint:** Strict 5-minute CPU-only compute limit.
+* 🧠 **The Solution:** Decouple the heavy Deep Learning pipeline from the runtime environment.
+* 🚀 **The Result:** State-of-the-Art (SOTA) semantic retrieval that runs in **< 10 seconds** using **$O(1)$ memory**.
+
+---
 
 ## 🏆 Architecture Philosophy
 
