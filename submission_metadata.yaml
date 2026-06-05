@@ -1,6 +1,7 @@
-team_name: "[Enter your team name]"
-participant_id: "[Enter your participant ID]"
-sandbox_link: "[Link to your HuggingFace Space, Streamlit Cloud, Colab, or Replit]"
+team_name: "Pravak"
+team_leader_name: "Shaswat Tiwari"
+participant_id: "movieshub764201_6306"
+sandbox_link: https://colab.research.google.com/drive/15Nj25tDUI71cQSngzW6CjCTUD0x_Zk90?usp=sharing
 ai_tools_used:
   - "Gemini for architecture ideation and boilerplate generation"
   - "Qwen/Qwen2.5-0.5B-Instruct for offline reasoning generation"

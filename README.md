@@ -37,7 +37,7 @@ This is the script executed in the Hackathon Sandbox.
 
 ---
 
-## 🚀 Setup & Reproduction
+## 🚀 Setup Guide
 
 ### Step 1: Build the Offline Manifest
 *Note: This step requires internet access to download model weights. We have already included the generated `.pkl` file in this repository so this step can be bypassed.*
